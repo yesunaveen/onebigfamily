@@ -1,0 +1,11 @@
+<plugin name='cloudinary' version='1.0.4' grailsVersion='2.4 &gt; *'>
+  <author>Meni Lubetkin</author>
+  <authorEmail>menilub@gmail.com</authorEmail>
+  <title>Grails Cloudinary Plugin</title>
+  <description>Simplifies the usage of the cloudinary service at http://cloudinary.com/ based on initial work created by Simon Buettner</description>
+  <documentation>https://github.com/menilub/grails-cloudinary</documentation>
+  <type>CloudinaryGrailsPlugin</type>
+  <resources>
+    <resource>grails.plugin.cloudinary.CloudinaryTagLib</resource>
+  </resources>
+</plugin>
